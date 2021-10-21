@@ -24,7 +24,7 @@ public:
 	hack01() {
 		// Generate UI
 		kprintf("hack01");
-		
+		kprintf("===============");
 	};
 
 };
