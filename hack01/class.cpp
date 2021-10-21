@@ -27,4 +27,16 @@ public:
 		kprintf("===============");
 	};
 
+// main functions
+public:
+	void HackSimWithEasyDifficulty() {
+
+	}
+	void HackSimWithMediumDifficulty() {
+
+	}
+	void HackSimWithHardDifficulty() {
+
+	}
+
 };
